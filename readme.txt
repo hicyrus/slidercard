@@ -1,0 +1,1 @@
+slidercard init
